@@ -1,0 +1,60 @@
+.account.section {
+    padding: 20px;
+  }
+  
+  .login-form {
+    background-color: #f5f5f5;
+  }
+  
+  .login-form .heading {
+    margin-bottom: 20px;
+  }
+  
+  .login-form h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .login-form p.lead {
+    font-size: 14px;
+  }
+  
+  .login-form form {
+    margin-top: 20px;
+  }
+  
+  .login-form .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .login-form label {
+    display: block;
+    font-weight: bold;
+  }
+  
+  .login-form .form-control {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .login-form .float-right {
+    font-size: 12px;
+    margin-top: 8px;
+  }
+  
+  .login-form .btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .login-form .btn:hover {
+    background-color: #0069d9;
+  }
+  
